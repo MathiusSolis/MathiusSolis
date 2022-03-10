@@ -1,8 +1,3 @@
-<style>
-    body {
-        background-color: white;
-    }
-</style>
 ![html](./src/images/banner-logo.svg)
 
 # ¡Hola! ¡Soy Mathius!
