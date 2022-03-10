@@ -12,6 +12,7 @@ Soy programador junior, titulado en la carrera Analista Programador, apasionado 
 ![html](./src/images/javascript.svg)
 ![html](./src/images/typescript.svg)
 ![html](./src/images/react.svg)
+![html](./src/images/redux.svg)
 ![html](./src/images/node.svg)
 ![html](./src/images/mysql-mariadb.svg)
 
