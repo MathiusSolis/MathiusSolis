@@ -30,6 +30,14 @@ Soy programador/desarrolador, titulado en la carrera Analista Programador, apasi
 <img src="./src/assets/divider.svg" />
 <br/>
 <br/>
+<ul>
+<li>
+Lenguajes
+<img style="display:inline-block;" width="100" height="50" align="center" src="./src/icons/html.svg" />
+<img style="display:inline-block;" width="100"height="50"  align="center" src="./src/icons/css.svg" />
+<img style="display:inline-block;" width="160"height="50"  align="center" src="./src/icons/typescript.svg" />
+</li>
+</ul>
 <img style="display:inline-block;" width="100" height="50" align="center" src="./src/icons/html.svg" />
 <img style="display:inline-block;" width="100"height="50"  align="center" src="./src/icons/css.svg" />
 <img style="display:inline-block;" width="160"height="50"  align="center" src="./src/icons/typescript.svg" />
