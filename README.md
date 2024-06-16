@@ -54,5 +54,6 @@ Soy programador/desarrolador, titulado en la carrera Analista Programador, apasi
 <li>
 🛠️<br/>
 <img width="100" height="50" align="center" src="./src/icons/git.svg" />
+<img width="210" height="50" align="center" src="./src/icons/github-actions.svg" />
 </li>
 </ul>
