@@ -23,7 +23,7 @@ Soy programador/desarrolador, titulado en la carrera Analista Programador, apasi
 <a href="https://mathiussolis.dev/">--> <u>Mis proyectos</u> <--</a>
 </p>
 
-> [!NOTE] Nota
+> [!NOTE]
 > Si no se puede acceder a mi portafolio, se puede acceder desde [*aquí*](https://mathiussolis.vercel.app/).
 
 <br/>
